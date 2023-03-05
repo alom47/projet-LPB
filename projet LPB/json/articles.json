@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "Demons Souls",
+      "cover":"../img/Demons Souls.jpg",
+      "category": "action-RPG",
+      "price": "54.99",
+      "desc": "desc",
+      "currency_code": "EUR",
+      "games":["all", "ps5"],
+      "quantity": 12
+    },
+    {
+      "id": 2,
+      "name": "Forspoken",
+      "cover":"../img/Forspoken.jpg",
+      "category": "action-RPG",
+      "price":"69.99",
+      "desc": "desc",
+      "currency_code": "EUR",
+      "games":["all", "ps5"],
+      "quantity": 10
+    },
+    {
+        "id": 3,
+        "name": "Grand Theft Auto 5",
+        "cover":"../img/Grand Theft Auto V.jpg",
+        "category": "action-adventure",
+        "price": "16.99",
+        "asc": "asc",
+        "currency_code": "EUR",
+        "games":["all", "ps4"],
+        "quantity": 7
+      },
+      {
+        "id": 4,
+        "name": "Hogwarts Legacy Deluxe Edition",
+        "cover":"../img/Hogwarts Legacy Deluxe Edition.jpg",
+        "category": "action-RPG",
+        "price":"60",
+        "desc": "desc",
+        "currency_code": "EUR",
+        "games":["all", "ps5"],
+        "quantity": 8
+      },
+      {
+        "id": 5,
+        "name": "Horizon Forbidden West Launch Edition",
+        "cover":"../img/Horizon Forbidden West Launch Edition.jpg",
+        "category": "action-RPG",
+        "price": "39.99",
+        "desc": "desc",
+        "currency_code": "EUR",
+        "games":["all", "ps4"],
+        "quantity": 16
+      },
+      {
+        "id": 6,
+        "name": "Horizon Zero Dawn COMPLETE EDITION",
+        "cover":"../img/Horizon Zero Dawn COMPLETE EDITION.jpg",
+        "category": "action-RPG",
+        "price":"18.99",
+        "asc": "asc",
+        "currency_code": "EUR",
+        "games":["all", "ps4"],
+        "quantity": 10
+      },
+      {
+        "id": 7,
+        "name": "It Takes Two",
+        "cover":"../img/It Takes Two.jpg",
+        "category": "platform-adventure",
+        "price": "19.99",
+        "asc": "asc",
+        "currency_code": "EUR",
+        "games":["all", "ps4"],
+        "quantity": 3
+      },
+      {
+        "id": 8,
+        "name": "Marvels SpiderMan Miles Morales",
+        "cover":"../img/Marvels SpiderMan Miles Morales Ultimate Edition.jpg",
+        "category": "action-adventure",
+        "price":"69.99",
+        "desc": "desc",
+        "currency_code": "EUR",
+        "games":["all", "ps5"],
+        "quantity": 11
+      },
+      {
+        "id": 9,
+        "name": "Marvels SpiderMan",
+        "cover":"../img/Marvels SpiderMan.jpg",
+        "category": "action-adventure",
+        "price": "14.99",
+        "asc": "asc",
+        "currency_code": "EUR",
+        "games":["all", "ps4"],
+        "quantity": 6
+      },
+      {
+        "id": 10,
+        "name": "Red Dead Redemption 2",
+        "cover":"../img/Red Dead Redemption 2.jpg",
+        "category": "action-adventure",
+        "price":"18.99",
+        "asc": "asc",
+        "currency_code": "EUR",
+        "games":["all", "ps4"],
+        "quantity": 2
+      }
+
+]
